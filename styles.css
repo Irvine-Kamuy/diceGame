@@ -47,6 +47,13 @@ img {
   font-size: 3rem;
   font-family: 'Indie Flower', cursive;
   font-weight: bolder;
+  box-shadow: 0.5rem 0.5rem 0.5rem #232931;  
+
+} 
+
+#roll:active {
+  transform: translate(0.5rem, 0.5rem);
+  box-shadow: none;
 }
 
 footer {
