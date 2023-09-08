@@ -32,6 +32,23 @@ img {
   width: 80%;
 }
 
+.btn {
+  height: 100px;
+}
+
+#roll {
+  margin: 20px;
+  border: none;
+  border-radius: 10px;
+  width: 15rem;
+  height: 4rem;
+  background-color: #4ECCA3;
+  color: #EEEEEE;
+  font-size: 3rem;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bolder;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
