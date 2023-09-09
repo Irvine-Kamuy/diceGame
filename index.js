@@ -12,9 +12,9 @@ function rollDice() {
         document.querySelector("h1").textContent = "You win!";
     }
     else if (p1 < p2) {
-        document.querySelector("h1").textContent = "Not today!";
+        document.querySelector("h1").textContent = "Not today lol!";
     }
     else {
-        document.querySelector("h1").textContent = "Try again~";
+        document.querySelector("h1").textContent = "Draw~";
     }
 }
